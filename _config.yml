@@ -6,7 +6,7 @@
 favicon: /favicon.ico
 
 # Set default keywords (Use a comma to separate)
-keywords: "uchuhimo, java, kotlin, C++, python, dataflow, 分布式, bigdata, 深度学习"
+keywords: "uchuhimo, java, kotlin, C++, python, 数据流, dataflow, 分布式, 大数据, bigdata, 深度学习"
 
 # Set rss to false to disable feed link.
 # Leave rss as empty to use site's feed link.
@@ -17,7 +17,7 @@ rss:
 since: 2017
 
 # icon between year and author @Footer
-authoricon: heart
+authoricon: random
 
 # Footer `powered-by` and `theme-info` copyright
 copyright: true
@@ -136,7 +136,7 @@ font:
 social:
   #LinkLabel: Link
   github: https://github.com/uchuhimo
-  twitter: https://twitter.com/uchuhimo
+  #twitter: https://twitter.com/uchuhimo
 
 
 # Social Links Icons
@@ -171,7 +171,7 @@ toc:
 # http://creativecommons.org/
 # Available: by | by-nc | by-nc-nd | by-nc-sa | by-nd | by-sa | zero
 #creative_commons: by-nc-sa
-creative_commons: by
+creative_commons: by-nc-sa
 
 
 sidebar:
@@ -250,8 +250,8 @@ post_wordcount:
 # Declare license on posts
 post_copyright:
   enable: true
-  license: CC BY 4.0
-  license_url: http://creativecommons.org/licenses/by/4.0/
+  license: CC BY-NC-SA 4.0
+  license_url: http://creativecommons.org/licenses/by-nc-sa/4.0/
 
 
 
