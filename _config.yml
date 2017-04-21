@@ -462,6 +462,8 @@ algolia_search:
 # Local search
 local_search:
   enable: true
+  # show top n results per title, show all results by setting to -1
+  top_n_per_title: 3
 
 # External URL with BASE64 encrypt & decrypt
 # Usage: {% exturl text url "title" %}
